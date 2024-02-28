@@ -1,0 +1,104 @@
+/* STYLE SECTIONING TAGS */
+*{margin: 0px;
+ padding: 0px;
+ }
+body {
+ background-color: #FCA9BC;
+ text-align: center;
+}
+
+/* STYLE TEXT */
+
+h1 {
+  font-family: 'Arima', sans-serif;
+  font-size: 65px;
+  padding-top: 1em;
+  padding-bottom: 1em; 
+  text-align: left;
+  background-color: #FCA9;
+  color: #023E73;
+}
+main {
+  text-align: center;
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-right: 20%;
+  margin-left: 20%;
+  }
+p {
+  font-family: 'Merriweather', sans-serif;
+  font-size: 25px;
+  padding-top: 1em;
+  padding-bottom: 1.5em;
+  text-align: center;
+  color: #034AA6;
+}
+#fun {
+color: #3F8500;
+}
+.scarf {
+color: #8F2488;
+}
+.book {
+color: #8F2488;
+}
+h2 {
+  font-family: 'Merriweather', sans-serif;
+  font-size: 35px;
+  font-style: normal;
+  padding-top: 2em;
+  padding-bottom: 0em;
+  color: #034AA6;
+}
+.from-school {
+ padding-top: .5em;
+}
+/* STYLE IMAGES */
+img{
+  max-width: 50%;
+  border-radius: 40%;
+  border: 5px solid #8D95A6;
+  margin-top: 2em;
+  margin-bottom: 0em;
+}
+.rose {
+margin-bottom: 2em;
+}
+.scarf {
+border-radius: 10%;
+}
+.book {
+border-radius: 10%;
+}
+.violin {
+border-radius: 10%;
+margin-top: 5em;
+}
+.palm-trees {
+border-radius: 10%;
+}
+.cake {
+border-radius: 10%;
+}
+
+
+/* STYLE NAV BAR */
+ul {
+  list-style-type: none;
+  background-color: #EFEEEC;
+  overflow: hidden;
+  padding: 1em;
+}
+li {
+  display: inline;
+}
+li a {
+  text-decoration: none;
+  font-family: 'Arima Madurai', sans-serif;
+  color: #E32D82;
+  font-size: 1.3em;
+  padding: 1em;
+}
+li a:hover {
+  background-color: #C2B3FC;
+}
